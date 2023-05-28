@@ -12,5 +12,3 @@ public class JavaSyntax {
     }
     
 }
-
-// Para comentar un código en Java se usa "//" si se quiere comentar en una linea. Para comentar en más lineas use "/*" al inicio y "*/" al final.
